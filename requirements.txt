@@ -1,4 +1,2 @@
-gspread
-google-auth
-Flask
-gunicorn
+pip freeze > requirements.txt
+
